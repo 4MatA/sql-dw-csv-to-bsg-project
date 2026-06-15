@@ -143,4 +143,4 @@ END;
 GO
 
 -- Execute the cleaned stored procedure
-EXEC bronze.load_bronze;
+-- EXEC bronze.load_bronze;
